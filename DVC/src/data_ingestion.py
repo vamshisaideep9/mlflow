@@ -80,11 +80,11 @@ def save_data(train_data: pd.DataFrame, test_data: pd.DataFrame, data_path: str)
 def main():
     try:
         test_size = 0.21
-        data_path = 'C:/Users/vamsh/OneDrive/Desktop/ml flow/mlflow/DVC/experiments/spam.csv'
+        data_path = 'C:/Users/vamsh/ml flow/mlflow/DVC/experiments/spam.csv'
         df = load_data(data_url=data_path)
         final_df = preprocess_data(df)
         train_data, test_data = train_test_split(final_df, test_size=test_size, random_state=2)
-        save_data(train_data, test_data, data_path='./data')
+        save_data(train_data, test_data, data_path='src/data')
     except Exception as e:
         logger.error('Failed to complete the data ingestion process: %s', e)
         print(f"Error: {e}")

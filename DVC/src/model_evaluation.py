@@ -100,8 +100,8 @@ def save_metrics(metrics: dict, file_path:str) -> None:
 
 def main():
     try:
-        clf = load_model('./models/model.pkl')
-        test_data = load_data('./data/processed/test_tfidf.csv')
+        clf = load_model('src/models/model.pkl')
+        test_data = load_data('src/data/processed/test_tfidf.csv')
 
         X_test = test_data.iloc[:,:-1].values
         y_test = test_data.iloc[:,-1].values
@@ -115,7 +115,7 @@ def main():
             live.log_metric('precision', precision_score(y_test, y_test))
             live.log_metric('recall', recall_score(y_test, y_test))
             # live.log_params(params)
-        save_metrics(metrics, 'reports/metrics.json')
+        save_metrics(metrics, 'src/reports/metrics.json')
     except Exception as e:
         logger.error('Failed to complete the model evaluation process: %s', e)
         print(f"Error: {e}")
