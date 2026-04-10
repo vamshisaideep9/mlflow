@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vamsh/ml flow/mlflow/src/mlruns/686715096941485878/c0e5d67e4172419c97e8cd69f2859d01/artifacts
+end_time: 1775803540053
+entry_point_name: ''
+experiment_id: '686715096941485878'
+lifecycle_stage: active
+run_id: c0e5d67e4172419c97e8cd69f2859d01
+run_name: worried-doe-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775803539991
+status: 3
+tags: []
+user_id: vamsh

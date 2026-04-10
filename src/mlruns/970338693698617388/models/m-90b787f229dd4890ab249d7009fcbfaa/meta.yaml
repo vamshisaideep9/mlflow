@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vamsh/ml flow/mlflow/src/mlruns/970338693698617388/models/m-90b787f229dd4890ab249d7009fcbfaa/artifacts
+creation_timestamp: 1775806380801
+experiment_id: '970338693698617388'
+last_updated_timestamp: 1775806390382
+model_id: m-90b787f229dd4890ab249d7009fcbfaa
+model_type: null
+name: Random-Forest-Model
+source_run_id: 0d289b7c503a4e73a2b4dbf7f04ed3f4
+status: 2
+status_message: null

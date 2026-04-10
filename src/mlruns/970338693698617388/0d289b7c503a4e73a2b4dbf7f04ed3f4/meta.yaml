@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vamsh/ml flow/mlflow/src/mlruns/970338693698617388/0d289b7c503a4e73a2b4dbf7f04ed3f4/artifacts
+end_time: 1775806390393
+entry_point_name: ''
+experiment_id: '970338693698617388'
+lifecycle_stage: active
+run_id: 0d289b7c503a4e73a2b4dbf7f04ed3f4
+run_name: rare-cat-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775806380312
+status: 3
+tags: []
+user_id: vamsh

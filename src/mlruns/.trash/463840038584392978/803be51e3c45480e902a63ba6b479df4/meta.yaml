@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/463840038584392978/803be51e3c45480e902a63ba6b479df4/artifacts
+deleted_time: 1775805887135
+end_time: 1775805832695
+entry_point_name: ''
+experiment_id: '463840038584392978'
+lifecycle_stage: deleted
+run_id: 803be51e3c45480e902a63ba6b479df4
+run_name: flawless-cod-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775805832202
+status: 4
+tags: []
+user_id: vamsh

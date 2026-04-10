@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vamsh/ml flow/mlflow/src/mlruns/686715096941485878/4a8b6b856bb4444fb348eb40451198c9/artifacts
+end_time: 1775803771608
+entry_point_name: ''
+experiment_id: '686715096941485878'
+lifecycle_stage: active
+run_id: 4a8b6b856bb4444fb348eb40451198c9
+run_name: debonair-grub-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775803771541
+status: 3
+tags: []
+user_id: vamsh

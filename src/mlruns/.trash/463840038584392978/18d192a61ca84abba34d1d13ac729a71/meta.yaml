@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/463840038584392978/18d192a61ca84abba34d1d13ac729a71/artifacts
+deleted_time: 1775805887134
+end_time: 1775805875159
+entry_point_name: ''
+experiment_id: '463840038584392978'
+lifecycle_stage: deleted
+run_id: 18d192a61ca84abba34d1d13ac729a71
+run_name: unleashed-snake-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775805874784
+status: 4
+tags: []
+user_id: vamsh
